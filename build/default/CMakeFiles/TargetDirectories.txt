@@ -1,0 +1,4 @@
+/home/andrew/newcalc/calculator/build/default/CMakeFiles/rebuild_cache.dir
+/home/andrew/newcalc/calculator/build/default/CMakeFiles/edit_cache.dir
+/home/andrew/newcalc/calculator/build/default/CMakeFiles/MyCalculator.dir
+/home/andrew/newcalc/calculator/build/default/CMakeFiles/cpp_demo.dir
